@@ -7,3 +7,7 @@ File di configurazione per Raspberry OS con Herbstluftwm, polybar, rofi
 
 Per eliminare bordo nero nello schermo:
 eliminare commento da #disable_overscan=1 in boot/config.txt
+
+Personalizzazione terminale:
+- installare neofetch
+- inserire neofetch in .bashrc (ho aggiornato anche .bashrc)
